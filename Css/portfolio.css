@@ -101,10 +101,12 @@ body {
 }
 
 #header {
-  width: 63vw;
+  width: 70vw;
   text-align: right;
-  padding: 3vh 0px;
-  position: absolute;
+  padding: 2vh 0px;
+  position: fixed;
+  z-index: 1000;
+  background-color: rgba(10, 10, 10);
 }
 
 #header a {
