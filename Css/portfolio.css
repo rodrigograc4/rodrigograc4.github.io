@@ -415,4 +415,15 @@ body {
       ),
       url("https://i.pinimg.com/originals/02/f2/aa/02f2aa6706afe30ddbf54018de7e7387.jpg") !important;
   }
+  #header {
+    width: 100vw;
+    text-align: right;
+    padding: 2vh 0px;
+    position: fixed;
+    z-index: 1000;
+    background-color: rgba(10, 10, 10);
+  }
+  #profile {
+    padding-top: 100px;
+  }
 }
