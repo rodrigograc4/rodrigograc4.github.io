@@ -429,7 +429,7 @@ body {
     top: 0;
     left: 0;
     width: 100vw;
-    padding-top: -100vh;
+    padding-top: -1000px;
     background-color: rgba(10, 10, 10);
     z-index: 999; /* Coloque um valor menor que o z-index do header para garantir que fique abaixo dele */
   }
