@@ -429,7 +429,7 @@ body {
     top: 0;
     left: 0;
     width: 100vw;
-    height: calc(100vh - 2vh); /* Excluindo a altura do header */
+    padding-top: -100vh;
     background-color: rgba(10, 10, 10);
     z-index: 999; /* Coloque um valor menor que o z-index do header para garantir que fique abaixo dele */
   }
