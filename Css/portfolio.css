@@ -415,6 +415,7 @@ body {
       ),
       url("https://i.pinimg.com/originals/02/f2/aa/02f2aa6706afe30ddbf54018de7e7387.jpg") !important;
   }
+  
   #header {
     width: 100vw;
     text-align: right;
@@ -422,16 +423,6 @@ body {
     position: fixed;
     z-index: 1000;
     background-color: rgba(10, 10, 10);
-  }
-  #header::before {
-    content: "";
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    padding-top: -1000px;
-    background-color: rgba(10, 10, 10);
-    z-index: 999; /* Coloque um valor menor que o z-index do header para garantir que fique abaixo dele */
   }
 
   #profile {
