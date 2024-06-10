@@ -11,20 +11,16 @@ firebase.initializeApp({
   measurementId: "G-0KWSCPC724"
 });
 
-// const messaging = firebase.messaging();
+const messaging = firebase.messaging();
 
-// console.log('[firebase-messaging-sw.js] Inicializando firebase-messaging-sw.js');
+messaging.onBackgroundMessage((payload) => {
+  console.log('[firebase-messaging-sw.js] Recebida mensagem em segundo plano', payload);
 
-// messaging.onBackgroundMessage((payload) => {
-//   console.log('[firebase-messaging-sw.js] Recebida mensagem em segundo plano', payload);
+  const notificationTitle = payload.notification.title;
+  const notificationOptions = {
+    body: payload.notification.body,
+    icon: 'https://rodrigograc4.github.io/ApexHub-F1/Images/ApexIcon_v2-01.png'
+  };
 
-//   const notificationTitle = payload.notification.title;
-//   const notificationOptions = {
-//       body: payload.notification.body,
-//       icon: 'https://rodrigograc4.github.io/ApexHub-F1/Images/ApexIcon_v2-01.png'
-//   };
-
-//   console.log('[firebase-messaging-sw.js] ', notificationTitle);
-
-//   self.registration.showNotification(notificationTitle, notificationOptions);
-// });
+  self.registration.showNotification(notificationTitle, notificationOptions);
+});
