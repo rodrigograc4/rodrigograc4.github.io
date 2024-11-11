@@ -44,8 +44,6 @@ CLASS:PUBLIC
 
 DTSTAMP:20241108T114127Z
 
-DESCRIPTION:F1 TV: https://f1tv.formula1.com/\n\nThe Qatar Grand Prix (Arabic: جائزة قطر الكبرى) is a Formula One motor racing event which is held in Qatar. It was held for the first time on 21 November as part of the 2021 championship at the Lusail International Circuit\, and after not taking place during the 2022 season due to the 2022 FIFA World Cup taking place in Qatar\, it rejoined the calendar in 2023 under a 10-year contract. The race was established as the fourth full-night race (as opposed to day or day-to-night races) on the Formula One calendar\, following the Singapore\, Bahrain and Sakhir Grands Prix.\n\nhttps://en.wikipedia.org/wiki/Qatar_Grand_Prix
-
 DTEND:20241130T150000Z
 
 LAST-MODIFIED:20241108T114127Z
@@ -59,8 +57,6 @@ SUMMARY:F1 Qatar GP: Sprint Race
 TRANSP:TRANSPARENT
 
 UID:65af550ef4b46e107842eac2
-
-URL:https://www.formula1.com/en/racing/2024/Qatar.html
 
 END:VEVENT
 
@@ -97,8 +93,6 @@ END:VALARM
 CLASS:PUBLIC
 
 DTSTAMP:20241108T114127Z
-
-DESCRIPTION:F1 TV: https://f1tv.formula1.com/\n\nThe Qatar Grand Prix (Arabic: جائزة قطر الكبرى) is a Formula One motor racing event which is held in Qatar. It was held for the first time on 21 November as part of the 2021 championship at the Lusail International Circuit\, and after not taking place during the 2022 season due to the 2022 FIFA World Cup taking place in Qatar\, it rejoined the calendar in 2023 under a 10-year contract. The race was established as the fourth full-night race (as opposed to day or day-to-night races) on the Formula One calendar\, following the Singapore\, Bahrain and Sakhir Grands Prix.\n\nhttps://en.wikipedia.org/wiki/Qatar_Grand_Prix
 
 DTEND:20241201T180000Z
 
@@ -114,8 +108,6 @@ TRANSP:TRANSPARENT
 
 UID:65af550ef4b46e107842eac3
 
-URL:https://www.formula1.com/en/racing/2024/Qatar.html
-
 END:VEVENT
 
 BEGIN:VEVENT
@@ -151,8 +143,6 @@ END:VALARM
 CLASS:PUBLIC
 
 DTSTAMP:20241108T114127Z
-
-DESCRIPTION:F1 TV: https://f1tv.formula1.com/\n\nThe Mexican Grand Prix (Spanish: Gran Premio de México)\, currently held under the name Mexico City Grand Prix (Spanish: Gran Premio de la Ciudad de México)\, is a motor racing event held at the Autódromo Hermanos Rodríguez in Mexico City. It first appeared as a non-championship event in 1962 before being held as a championship event in 1963–1970 and 1986–1992. The Grand Prix returned in 2015 at the Mexico City circuit\, and held the event from 2015 to 2019\, and since 2021\; it was due to host the Grand Prix in 2020\, but this was cancelled in response to the COVID-19 pandemic. The venue is contracted to host the event until 2025.\n\nhttps://en.wikipedia.org/wiki/Mexico_City_Grand_Prix
 
 DTEND:20241027T220000Z
 
@@ -168,8 +158,6 @@ TRANSP:TRANSPARENT
 
 UID:65af550ff4b46e108319c897
 
-URL:https://www.formula1.com/en/racing/2024/Mexico.html
-
 END:VEVENT
 
 BEGIN:VEVENT
@@ -205,8 +193,6 @@ END:VALARM
 CLASS:PUBLIC
 
 DTSTAMP:20241108T114127Z
-
-DESCRIPTION:F1 TV: https://f1tv.formula1.com/\n\nThe Las Vegas Grand Prix is a motor racing event that forms part of the Formula One World Championship\, taking place in Paradise\, Nevada\, in the United States. It is conducted as a night race on a temporary street circuit that includes parts of the Las Vegas Strip. The first race was held on November 18\, 2023. Formula One and Las Vegas have signed a ten-year agreement for the race.\n\nhttps://en.wikipedia.org/wiki/Las_Vegas_Grand_Prix
 
 DTEND:20241124T075900Z
 
@@ -222,8 +208,6 @@ TRANSP:TRANSPARENT
 
 UID:65af550ff4b46e108319c88d
 
-URL:https://www.formula1.com/en/racing/2024/Las_Vegas.html
-
 END:VEVENT
 
 BEGIN:VEVENT
@@ -259,8 +243,6 @@ END:VALARM
 CLASS:PUBLIC
 
 DTSTAMP:20241108T114127Z
-
-DESCRIPTION:F1 TV: https://f1tv.formula1.com/\n\nThe Brazilian Grand Prix (Portuguese: Grande Prêmio do Brasil)\, currently held under the name São Paulo Grand Prix (Portuguese: Grande Prêmio de São Paulo)\, is a Formula One championship race which is currently held at the Autódromo José Carlos Pace in Interlagos neighborhood\, Cidade Dutra\, São Paulo. The inaugural Brazilian Grand Prix\, held in 1972\, was held as a non-championship event\, with all races from the 1973 Brazilian Grand Prix onwards held as a championship event. Previously\, the race was held at Jacarepaguá from 1978 to 1989\, before returning to Interlagos in 1990\, where it has since been held.\n\nhttps://en.wikipedia.org/wiki/São_Paulo_Grand_Prix
 
 DTEND:20241102T150000Z
 
@@ -276,8 +258,6 @@ TRANSP:TRANSPARENT
 
 UID:65af550ff4b46e5026018e16
 
-URL:https://www.formula1.com/en/racing/2024/Brazil.html
-
 END:VEVENT
 
 BEGIN:VEVENT
@@ -313,8 +293,6 @@ END:VALARM
 CLASS:PUBLIC
 
 DTSTAMP:20241108T114127Z
-
-DESCRIPTION:F1 TV: https://f1tv.formula1.com/\n\nThe Brazilian Grand Prix (Portuguese: Grande Prêmio do Brasil)\, currently held under the name São Paulo Grand Prix (Portuguese: Grande Prêmio de São Paulo)\, is a Formula One championship race which is currently held at the Autódromo José Carlos Pace in Interlagos neighborhood\, Cidade Dutra\, São Paulo. The inaugural Brazilian Grand Prix\, held in 1972\, was held as a non-championship event\, with all races from the 1973 Brazilian Grand Prix onwards held as a championship event. Previously\, the race was held at Jacarepaguá from 1978 to 1989\, before returning to Interlagos in 1990\, where it has since been held.\n\nhttps://en.wikipedia.org/wiki/São_Paulo_Grand_Prix
 
 DTEND:20241103T173000Z
 
@@ -330,8 +308,6 @@ TRANSP:TRANSPARENT
 
 UID:65af550ff4b46e5026018e17
 
-URL:https://www.formula1.com/en/racing/2024/Brazil.html
-
 END:VEVENT
 
 BEGIN:VEVENT
@@ -368,8 +344,6 @@ CLASS:PUBLIC
 
 DTSTAMP:20241108T114127Z
 
-DESCRIPTION:F1 TV: https://f1tv.formula1.com/\n\nThe Abu Dhabi Grand Prix (Arabic: سباق جائزة أبوظبي الكبرى) is a Formula One motor racing event. The first race took place on 1 November 2009\, held at the Hermann Tilke-designed Yas Marina Circuit on Yas Island\, near Abu Dhabi\, the capital of the United Arab Emirates.The Iconic W Abu Dhabi - Yas Island is over the short strait between turn 13 and 14. It was announced in early 2007 at the Abu Dhabi F1 Festival. On 25 June 2008\, the FIA announced the provisional 2009 Formula One calendar including the Abu Dhabi Grand Prix as the 19th and final race of the season on 15 November. On 5 November 2008\, however\, it was announced that the race would be held as the season finale on 1 November\, two weeks before the initially planned date\, as the 17th and final race. The event has been held every year since\, and is due to take place at the Yas Marina Circuit until at least 2030.The inaugural race was Formula One's first day–night race\, starting at 17:00 local time. Floodlights used to illuminate the circuit were switched on from the start of the event to ensure a seamless transition from daylight to darkness. Subsequent Abu Dhabi Grands Prix have also been day–night races.\n\nhttps://en.wikipedia.org/wiki/Abu_Dhabi_Grand_Prix
-
 DTEND:20241208T150000Z
 
 LAST-MODIFIED:20241108T114127Z
@@ -383,8 +357,6 @@ SUMMARY:F1 Abu Dhabi GP: Race
 TRANSP:TRANSPARENT
 
 UID:65af550ff4b46e5026018e1c
-
-URL:https://www.formula1.com/en/racing/2024/United_Arab_Emirates.html
 
 END:VEVENT
 
