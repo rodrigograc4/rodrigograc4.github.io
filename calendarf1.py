@@ -21,10 +21,17 @@ for event in calendar.events:
         event.url = None  # Remove o URL
         F1calendar.events.add(event)
 
-# Salva o novo calendário em um arquivo .ics
-# Salva o novo calendário em um arquivo .ics com codificação UTF-8
-with open("F1calendar.ics", "w", encoding="utf-8") as file:
-    file.writelines(F1calendar.serialize())
+# Serializa o calendário
+ics_text = F1calendar.serialize()
 
+# Remove linhas em branco (linhas que só têm espaços ou \n)
+lines = [line.strip() for line in ics_text.splitlines() if line.strip() != ""]
 
-print("Novo arquivo 'F1calendar.ics' criado com sucesso!")
+# Junta com \r\n (CRLF), conforme exigido pelo padrão .ics
+ics_crlf = "\r\n".join(lines) + "\r\n"  # precisa terminar com CRLF também
+
+# Escreve o ficheiro corrigido
+with open("F1calendar.ics", "w", encoding="utf-8", newline="") as file:
+    file.write(ics_crlf)
+
+print("Ficheiro ICS corrigido criado com sucesso!")
